@@ -1,9 +1,9 @@
 //
 //  CoreDataImporter.m
-//  Gerocery Dube
+//  购物车
 //
 //  Created by lanmao on 16/1/13.
-//  Copyright © 2016年 Tim Roadley. All rights reserved.
+//  Copyright © 2016年 小霸道. All rights reserved.
 //
 
 #import "CoreDataImporter.h"
